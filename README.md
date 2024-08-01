@@ -80,7 +80,7 @@ The XGBoost model demonstrated impressive accuracy in forecasting energy consump
 
 ## 👥 Team Members
 
-- **Yashas D** - 1NH21AI123 - [Connect on LinkedIn]((https://www.linkedin.com/in/yashasd2004/))
+- **Yashas D** - 1NH21AI123 - [Connect on LinkedIn](https://www.linkedin.com/in/yashasd2004/)
 - **Sree Dinesh Reddy P** - 1NH21AI143 
 - **Yashwanth Pavan K** - 1NH21AI124 
 
@@ -89,5 +89,4 @@ The XGBoost model demonstrated impressive accuracy in forecasting energy consump
 - **Mrs. Rajasree RS**, Sr. Assistant Professor, Dept. of AI & ML, NHCE
 
 
-Follow me on: https://www.linkedin.com/in/yashasd2004/
 Feel free to reach out for any questions or collaboration opportunities!
