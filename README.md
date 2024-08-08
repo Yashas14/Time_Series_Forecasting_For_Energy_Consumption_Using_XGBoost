@@ -76,7 +76,7 @@ The XGBoost model demonstrated impressive accuracy in forecasting energy consump
 - **Dataset**: Historical energy consumption data used for training and evaluating the model [Dataset](https://github.com/Yashas14/Time_Series_Forecasting_For_Energy_Consumption_Using_XGBoost/tree/main/Datasets_).
 - **Source Code**: Implementation of the XGBoost model and associated scripts [code](https://github.com/Yashas14/Time_Series_Forecasting_For_Energy_Consumption_Using_XGBoost/blob/main/Mini_Project.ipynb)
 
-## 👥 Connect With us:
+## 👥 Connect With Me:
 
 **Yashas D** [Connect on LinkedIn](https://www.linkedin.com/in/yashasd2004/)
 Feel free to reach out for any questions or collaboration opportunities!
